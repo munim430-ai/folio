@@ -3,9 +3,13 @@
 **Generate perfect Mokwon University application forms in seconds.**
 
 Stop filling DOCX files manually.  
-Upload your student data once → Folio generates fully filled, photo-embedded application packets for every student instantly.
+Upload your student roster → Get fully filled, photo-embedded application packets instantly.
 
-![Folio Hero](https://via.placeholder.com/800x400/0a0b0e/4ade80?text=Folio+—+Fast+University+Form+Generator)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,74,222,128,34,211,238&height=280&section=header&text=Folio&fontSize=90&fontAlignY=45&desc=University%20Application%20Form%20Generator&descAlignY=68&descSize=22&animation=fadeIn" alt="Folio Hero Banner" width="100%"/>
+</div>
+
+<br>
 
 ## ✨ Features
 
