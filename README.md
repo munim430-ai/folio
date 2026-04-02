@@ -2,14 +2,15 @@
 
 **Generate perfect Mokwon University application forms in seconds.**
 
-Stop filling DOCX files manually.  
-Upload your Excel file once → Get fully filled, photo-embedded application packets for every student instantly.
+Stop filling DOCX files manually. Upload your student data once and get perfectly filled application packets with embedded photos for every student.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=260&section=header&text=Folio&fontSize=110&fontAlignY=48&desc=University%20Application%20Form%20Generator&descAlignY=72&descSize=26&textBg=black&descColor=black&fontColor=black" alt="Folio Hero" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a0b0e&height=280&section=header&text=Folio&fontSize=105&fontAlignY=48&desc=Mokwon%20University%20Form%20Generator%20%E2%80%A2%20Fast%20%E2%80%A2%20Offline%20%E2%80%A2%20Photo%20Embedding&descAlignY=70&descSize=23&fontColor=ffffff&descColor=ffffff" alt="Folio Hero Banner"/>
 </div>
 
 <br>
+
+
 ## ✨ Features
 
 - **Bulk DOCX Generation** — One perfectly formatted file per student
