@@ -5,7 +5,7 @@
 Stop filling DOCX files manually. Upload your student data once and get perfectly filled application packets with embedded photos for every student.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a0b0e&height=280&section=header&text=Folio&fontSize=105&fontAlignY=48&desc=Mokwon%20University%20Form%20Generator%20%E2%80%A2%20Fast%20%E2%80%A2%20Offline%20%E2%80%A2%20Photo%20Embedding&descAlignY=70&descSize=23&fontColor=ffffff&descColor=ffffff" alt="Folio Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=260&section=header&text=Folio&fontSize=110&fontAlignY=50&desc=Mokwon%20University%20Form%20Generator&descAlignY=73&descSize=26&fontColor=111318&descColor=111318" alt="Folio Hero"/>
 </div>
 
 <br>
