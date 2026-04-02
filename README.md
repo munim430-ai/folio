@@ -1,85 +1,65 @@
 # Folio — University Form Generator
 
-**Generate perfect Mokwon University application forms in seconds.**
+**Generate perfect university application forms in seconds.**
 
-Stop filling DOCX files manually. Upload your student data once and get perfectly filled application packets with embedded photos for every student.
+Stop filling DOCX files manually.  
+Upload your student data once and get perfectly filled application packets with embedded photos for every student.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=260&section=header&text=Folio&fontSize=110&fontAlignY=50&desc=Mokwon%20University%20Form%20Generator&descAlignY=73&descSize=26&fontColor=111318&descColor=111318" alt="Folio Hero"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=280&section=header&text=Folio&fontSize=110&fontAlignY=48&desc=University%20Application%20Form%20Generator%20%E2%80%A2%20Fast%20%E2%80%A2%20Offline%20%E2%80%A2%20Photo%20Embedding&descAlignY=72&descSize=24&fontColor=0a0b0e&descColor=0a0b0e" 
+    alt="Folio Hero Banner"
+    style="max-width: 100%; height: auto; border-radius: 12px;"
+  />
 </div>
 
 <br>
 
-
-## ✨ Features
-
-- **Bulk DOCX Generation** — One perfectly formatted file per student
-- **Automatic Photo Embedding** — Just drop a photos folder or specify paths
-- **Pre-filled Forms** — Summer semester, consent checkboxes, and agreements are auto-ticked
-- **Built-in Validation** — Warns you about missing required fields
-- **100% Offline** — Your student data never leaves your computer
-- **Mokwon University Ready** — Fully supports their 3-page admission packet
-- **Portable Windows App** — No installation required
-
-## 🚀 Quick Start
-
-1. **Download** the latest version:
-   
-   [↓ Download Folio.exe](https://github.com/munim430-ai/Folio/releases/latest/download/Folio.exe)
-
-2. Run `Folio.exe` (Windows 10/11)
-
-3. Select **Mokwon University**
-
-4. Download the Excel template → Fill your student data
-
-5. Drag & drop the Excel file → Select photos folder (optional) → Click **Generate**
-
-Done. One clean DOCX per student, ready to print or email.
-
-## 📋 What You Need
-
-- Windows 10 or 11 (64-bit)
-- Student data in Excel (template provided inside the app)
-- Student photos (optional, but auto-embedded)
-
-## 📖 Documentation
-
-Full guide including:
-- Installation
-- Excel column reference
-- How to add photos (name-based or path-based)
-- Troubleshooting
-
-→ [View Full Documentation](docs.html)
-
-## 🖼️ Screenshots
-
-*(Add screenshots here once you have them)*
-
-![App Interface](https://via.placeholder.com/800x500/111318/4ade80?text=Folio+Interface+Preview)
-
-## 📥 Download
-
-[<img src="https://img.shields.io/badge/Download-Folio.exe-4ade80?style=for-the-badge&logo=windows&logoColor=black" height="48">](https://github.com/munim430-ai/Folio/releases/latest/download/Folio.exe)
-
-**Free forever during early access** • No account • No subscription
-
-## 🛠️ Support
-
-Having trouble?  
-Email: **munimm247@gmail.com**
-
-Please include:
-- A description of the issue
-- Your Excel file (remove sensitive data first)
-
-## 📄 License
-
-This project is for internal/educational consultant use.
+[↓ Download Folio.exe](https://github.com/munim430-ai/Folio/releases/latest/download/Folio.exe)
 
 ---
 
-**Made with ❤️ for education consultants helping students study in Korea.**
+## ✨ Features
 
-[GitHub Repository](https://github.com/munim430-ai/folio) • [Documentation](docs.html)
+- Bulk DOCX generation — one file per student
+- Automatic photo embedding
+- Pre-filled checkboxes and fields
+- Built-in data validation
+- 100% offline — no internet required
+- Portable Windows application
+
+## 🚀 Quick Start
+
+1. Download the latest version  
+   [↓ Download Folio.exe](https://github.com/munim430-ai/Folio/releases/latest/download/Folio.exe)
+
+2. Run `Folio.exe`
+
+3. Select your university, download the Excel template, and fill in student data
+
+4. Drag & drop the Excel file, select photos folder (optional), and click **Generate**
+
+Done — perfectly formatted DOCX files ready in seconds.
+
+## 📖 Documentation
+
+Full guide with Excel column reference, photo setup, and troubleshooting:
+
+→ [View Documentation](docs.html)
+
+## 🛠️ System Requirements
+
+- Windows 10 or 11 (64-bit)
+- No installation required (portable app)
+
+## 📥 Download
+
+[<img src="https://img.shields.io/badge/Download-Folio.exe-0a0b0e?style=for-the-badge&logo=windows&logoColor=white" height="52">](https://github.com/munim430-ai/Folio/releases/latest/download/Folio.exe)
+
+**Free to use** • No account • Runs completely offline
+
+---
+
+**Made for education consultants who want to save hours on university applications.**
+
+[GitHub](https://github.com/munim430-ai/folio) • [Documentation](docs.html) • [Contact](mailto:munimm247@gmail.com)
